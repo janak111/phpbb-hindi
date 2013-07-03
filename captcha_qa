@@ -51,8 +51,8 @@ $lang = array_merge($lang, array(
 	'QUESTION_DELETED'			=> 'प्रशन  मिटा दिया गया है',
 	'QUESTION_LANG'				=> 'भाषा ',
 	'QUESTION_LANG_EXPLAIN'		=> 'भाषा जिसमे यह प्रश्न और उनके उत्तर लिखे गए है ',
-	'QUESTION_STRICT'			=> 'Strict check',
-	'QUESTION_STRICT_EXPLAIN'	=> '.',
+	'QUESTION_STRICT'			=> 'सख्त जाँच ',
+	'QUESTION_STRICT_EXPLAIN'	=> 'इसे सक्षम करने से आप सफेदी और भाषा को सुधर सकते है .',
 
 	'QUESTION_TEXT'				=> ' प्रश्न',
 	'QUESTION_TEXT_EXPLAIN'		=> 'उपयोगकर्ता को जो प्रश्न प्रस्तुत किया गया है ',
