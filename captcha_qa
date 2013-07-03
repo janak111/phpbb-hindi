@@ -52,12 +52,12 @@ $lang = array_merge($lang, array(
 	'QUESTION_LANG'				=> 'भाषा ',
 	'QUESTION_LANG_EXPLAIN'		=> 'भाषा जिसमे यह प्रश्न और उनके उत्तर लिखे गए है ',
 	'QUESTION_STRICT'			=> 'Strict check',
-	'QUESTION_STRICT_EXPLAIN'	=> 'Enable to enforce mixed case, punctuation and whitespace.',
+	'QUESTION_STRICT_EXPLAIN'	=> '.',
 
 	'QUESTION_TEXT'				=> ' प्रश्न',
 	'QUESTION_TEXT_EXPLAIN'		=> 'उपयोगकर्ता को जो प्रश्न प्रस्तुत किया गया है ',
 
-	'QA_ERROR_MSG'				=> 'Please fill in all fields and enter at least one answer.',
+	'QA_ERROR_MSG'				=> 'कृपया सभी दिए गए क्षेत्रो  को भरें और कम से कम एक प्रश्न का उत्तर दें ',
 	'QA_LAST_QUESTION'			=> 'आप सभी सवालों को नहीं मिटा सकते जब प्लग-इन चल रहा है ',
 
 ));
