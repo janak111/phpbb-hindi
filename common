@@ -1,11 +1,11 @@
 <?php
 /**
 *
-* common [English]
+* common [हिंदी ]
 *
 * @package language
 * @version $Id$
-* @copyright (c) 2005 phpBB Group
+* @copyright (c) 2012 phpBBharat Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -787,39 +787,39 @@ $lang = array_merge($lang, array(
 	),
 
 	'tz'				=> array(
-		'-12'	=> 'UTC - 12 hours',
-		'-11'	=> 'UTC - 11 hours',
-		'-10'	=> 'UTC - 10 hours',
+		'-12'	=> 'UTC - १२ घंटे ',
+		'-11'	=> 'UTC - ११ घंटे',
+		'-10'	=> 'UTC - १० घंटे ',
 		'-9.5'	=> 'UTC - 9:30 hours',
-		'-9'	=> 'UTC - 9 hours',
-		'-8'	=> 'UTC - 8 hours',
-		'-7'	=> 'UTC - 7 hours',
-		'-6'	=> 'UTC - 6 hours',
-		'-5'	=> 'UTC - 5 hours',
+		'-9'	=> 'UTC - ९ घंटे ',
+		'-8'	=> 'UTC - ८ घंटे ',
+		'-7'	=> 'UTC - ७ घंटे ',
+		'-6'	=> 'UTC - ६ घंटे ',
+		'-5'	=> 'UTC - ५ घंटे ',
 		'-4.5'	=> 'UTC - 4:30 hours',
-		'-4'	=> 'UTC - 4 hours',
+		'-4'	=> 'UTC - ४ घंटे ',
 		'-3.5'	=> 'UTC - 3:30 hours',
-		'-3'	=> 'UTC - 3 hours',
-		'-2'	=> 'UTC - 2 hours',
-		'-1'	=> 'UTC - 1 hour',
+		'-3'	=> 'UTC - ३ घंटे ',
+		'-2'	=> 'UTC - २ घंटे ',
+		'-1'	=> 'UTC - १ घंटा ',
 		'0'		=> 'UTC',
-		'1'		=> 'UTC + 1 hour',
-		'2'		=> 'UTC + 2 hours',
-		'3'		=> 'UTC + 3 hours',
+		'1'		=> 'UTC + १ घंट',
+		'2'		=> 'UTC + २ घंट ',
+		'3'		=> 'UTC + ३ घंटे ',
 		'3.5'	=> 'UTC + 3:30 hours',
-		'4'		=> 'UTC + 4 hours',
+		'4'		=> 'UTC + ४ घंटे ',
 		'4.5'	=> 'UTC + 4:30 hours',
-		'5'		=> 'UTC + 5 hours',
+		'5'		=> 'UTC + ५ घंटे ',
 		'5.5'	=> 'UTC + 5:30 hours',
 		'5.75'	=> 'UTC + 5:45 hours',
-		'6'		=> 'UTC + 6 hours',
+		'6'		=> 'UTC + ६ घंटे ',
 		'6.5'	=> 'UTC + 6:30 hours',
-		'7'		=> 'UTC + 7 hours',
-		'8'		=> 'UTC + 8 hours',
+		'7'		=> 'UTC + ७ घंटे ',
+		'8'		=> 'UTC + ८ घंटे ',
 		'8.75'	=> 'UTC + 8:45 hours',
-		'9'		=> 'UTC + 9 hours',
+		'9'		=> 'UTC + ९ घंटे ',
 		'9.5'	=> 'UTC + 9:30 hours',
-		'10'	=> 'UTC + 10 hours',
+		'10'	=> 'UTC + १ ० घंटे ',
 		'10.5'	=> 'UTC + 10:30 hours',
 		'11'	=> 'UTC + 11 hours',
 		'11.5'	=> 'UTC + 11:30 hours',
