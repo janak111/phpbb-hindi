@@ -72,8 +72,8 @@ $lang = array_merge($lang, array(
 	'GROUP_RESIGN_PENDING_CONFIRM'		=> 'Are you sure you want to resign your pending membership from the selected group?',
 	'GROUP_RESIGNED_MEMBERSHIP'			=> 'You were successfully removed from the selected group.',
 	'GROUP_RESIGNED_PENDING'			=> 'Your pending membership was successfully removed from the selected group.',
-	'GROUP_TYPE'						=> 'Group type',
-	'GROUP_UNDISCLOSED'					=> 'Hidden group',
+	'GROUP_TYPE'						=> 'समूह प्रकार ',
+	'GROUP_UNDISCLOSED'					=> 'गुप्त समूह',
 	'FORUM_UNDISCLOSED'					=> 'Moderating hidden forum(s)',
 
 	'LOGIN_EXPLAIN_GROUP'	=> 'You need to login to view group details.',
@@ -83,7 +83,7 @@ $lang = array_merge($lang, array(
 	'NOT_MEMBER_OF_GROUP'			=> 'The requested operation cannot be taken because you are not a member of the selected group or your membership has not been approved yet.',
 	'NOT_RESIGN_FROM_DEFAULT_GROUP'	=> 'You are not allowed to resign from your default group.',
 	
-	'PRIMARY_GROUP'		=> 'Primary group',
+	'PRIMARY_GROUP'		=> ' प्राथमिक समूह',
 
 	'REMOVE_SELECTED'		=> 'Remove selected',
 
