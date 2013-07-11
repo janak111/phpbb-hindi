@@ -1,11 +1,11 @@
 <?php
 /**
 *
-* help_faq [English]
+* help_faq [हिंदी]
 *
 * @package language
 * @version $Id$
-* @copyright (c) 2005 phpBB Group
+* @copyright (c) 2012 phpBBharat Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -51,8 +51,8 @@ $help = array(
 		1 => 'Within your User Control Panel, under “Board preferences”, you will find the option <em>Hide your online status</em>. Enable this option with <samp>Yes</samp> and you will only appear to the administrators, moderators and yourself. You will be counted as a hidden user.'
 	),
 	array(
-		0 => 'I’ve lost my password!',
-		1 => 'Don’t panic! While your password cannot be retrieved, it can easily be reset. Visit the login page and click <em>I’ve forgotten my password</em>. Follow the instructions and you should be able to log in again shortly.'
+		0 => 'मैं  अपना कूटशब्द भूल गया ! ',
+		1 => 'घबराइये मत ! While your password cannot be retrieved, it can easily be reset. Visit the login page and click <em>I’ve forgotten my password</em>. Follow the instructions and you should be able to log in again shortly.'
 	),
 	array(
 		0 => 'I registered but cannot login!',
