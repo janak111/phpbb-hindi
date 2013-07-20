@@ -1,11 +1,11 @@
 <?php
 /**
 *
-* mcp [English]
+* mcp [हिंदी]
 *
 * @package language
 * @version $Id$
-* @copyright (c) 2005 phpBB Group
+* @copyright (c) 2012phpBBharat Group
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -56,8 +56,8 @@ $lang = array_merge($lang, array(
 
 	'CANNOT_MOVE_SAME_FORUM'=> 'You cannot move a topic to the forum it’s already in.',
 	'CANNOT_WARN_ANONYMOUS'	=> 'You cannot warn unregistered guest users.',
-	'CANNOT_WARN_SELF'		=> 'You cannot warn yourself.',
-	'CAN_LEAVE_BLANK'		=> 'This can be left blank.',
+	'CANNOT_WARN_SELF'		=> 'आप खुद को चेतावनी नहीं दे सकते ',
+	'CAN_LEAVE_BLANK'		=> 'इसे खाली छोड़ा जा सकता है ',
 	'CHANGE_POSTER'			=> 'Change poster',
 	'CLOSE_PM_REPORT'		=> 'Close PM report',
 	'CLOSE_PM_REPORT_CONFIRM'	=> 'Are you sure you want to close the selected PM report?',
