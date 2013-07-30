@@ -108,8 +108,8 @@ $help = array(
 		1 => 'अन्य वस्तुएँ / परेशानियाँ'
 	),
 	array(
-		0 => 'Can I add my own tags?',
-		1 => 'If you are an administrator on this board and have the proper permissions, you can add further BBCodes through the Custom BBCodes section.'
+		0 => 'क्या मैं अपने खुदके टैग जोड़ सकता  हूँ?',
+		1 => 'अगर आप इस बोर्ड के प्रबंधक है और अगर आपके पास ज़रूरी अनुमति है , तो आप बीबीसी कोड  "कस्टम बीबीसी कोड " में जाकर जोड़ सकते है |'
 	)
 );
 
